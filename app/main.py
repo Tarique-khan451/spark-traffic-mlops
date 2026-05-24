@@ -104,3 +104,5 @@ def predict(
             "status": "failed",
             "error": str(e)
         }
+    
+# API Code updated
