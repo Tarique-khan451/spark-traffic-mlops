@@ -21,3 +21,4 @@ if __name__ == "__main__":
         load_data()
     except Exception as e:
         logging.error("Error during data loading: %s", str(e))
+        #Eda updated
